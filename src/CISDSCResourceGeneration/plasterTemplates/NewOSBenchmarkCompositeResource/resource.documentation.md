@@ -123,3 +123,8 @@ Configuration MyConfiguration
     }
 }
 ```
+
+## Exclusions
+| Recommendation ID | Recommendation | Justification |
+| ----------------- | -------------- | ------------- |
+| 1.2.3 | 1.2.3 - (L1) Ensure Allow Administrator account lockout is set to Enabled | Not supported by SecurityPolicyDSC |
